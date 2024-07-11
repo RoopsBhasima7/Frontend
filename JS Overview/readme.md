@@ -15,3 +15,11 @@ js
 -if else else -if
 --truthy vs falsy
 --switch
+-loops
+-for while
+--foreach forin forof do-while
+-functions
+--callback fncs
+-params, arguments
+-arrays
+-push pop shift unshift
