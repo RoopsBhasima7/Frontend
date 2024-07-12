@@ -23,3 +23,11 @@ js
 -params, arguments
 -arrays
 -push pop shift unshift
+--how arrays are made behind the scenes
+--why we can make negative indexes arrays in js
+--practice questions and scenarios
+-objects
+-props vs methods
+updating object props
+--how to delte object prop
+--practice questions, scenarios

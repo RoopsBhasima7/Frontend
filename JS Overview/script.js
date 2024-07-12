@@ -61,3 +61,7 @@
 //     console.log(a, b, c);
 // }
 // abcd(7, 8, 9);
+
+// array = group of values
+
+var arr = [11, 12, 31, 456];
