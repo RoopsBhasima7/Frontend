@@ -63,5 +63,22 @@
 // abcd(7, 8, 9);
 
 // array = group of values
+// push pop shift unshift
 
-var arr = [11, 12, 31, 456];
+// var arr = [1, 2, 3, 4, 5, 6, 7];
+// arr.shift();
+// arr.splice(2,1);
+
+
+// object
+// (1) blank obj
+var a = {};
+
+// (2) filled obj
+var hari = {
+    age: 24,
+    name: "Hari",
+    email: "male@email.com",
+    linkedin: "hari",
+    contact: 9840963487,
+}
